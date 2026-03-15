@@ -19,8 +19,7 @@ I build at the intersection of high-performance systems and intuitive data story
 ### 📫 Connect with me
 
 - **LinkedIn:** [linkedin.com/in/mikaaldaba](https://www.linkedin.com/in/mikaaldaba)
-- **Website:** [mika.design](https://mika.design)
-- **Medium:** [@mikaaldaba](https://medium.com/@mikaaldaba)
+
 
 ---
 *“I believe technical excellence is incomplete without a clear narrative. I build tools that perform well and tell a story.”*
