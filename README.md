@@ -11,4 +11,4 @@ Currently, I'm the **Senior AI Engineering Manager at Capacit** in Copenhagen. P
 
 If you're interested in systems performance or the design of technical tools, feel free to reach out.
 
-[mika.design](https://mika.design) / [LinkedIn](https://www.linkedin.com/in/mikaaldaba) / [Medium](https://medium.com/@mikaaldaba)
+[LinkedIn](https://www.linkedin.com/in/mikaaldaba) 
