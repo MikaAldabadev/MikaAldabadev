@@ -1,25 +1,14 @@
-# Hi, I'm Mika 👋
+# Mika Aldaba
 
-**Software Engineer @ ML Infrastructure | Data Designer**
+Designer-turned-engineer. I focus on the intersection of high-performance ML infrastructure and intuitive data storytelling.
 
-I build at the intersection of high-performance systems and intuitive data storytelling. With a background in Computer Science and years of experience in data visualization and UX, I focus on making complex technical infrastructure both accessible and highly efficient.
+Currently, I'm the **Senior AI Engineering Manager at Capacit** in Copenhagen. Previously, I was the **Data Design Lead at Thinking Machines**, where I helped build the foundation for data-driven consulting in Manila.
 
-### 🛠 Technical Focus
+### What I'm thinking about:
+- **Systems & Primitives:** Optimizing low-level components for Transformer scaling (Linear Attention, Rust, CUDA).
+- **Narratives in Engineering:** I believe technical excellence is only half the battle; the other half is making complex systems legible through design.
+- **The Politics of AI:** How automation impacts consulting and the ethical implementation of large-scale models.
 
-- **Systems Engineering:** Optimizing low-level primitives in **Rust**, **C++**, and **Ruby**.
-- **ML Infrastructure:** Developing high-performance implementations of **Linear Attention** (e.g., Flash Linear Attention) to scale Transformers to infinite context.
-- **Data Design:** Bridging the gap between engineering and user experience through data-driven design and visualization.
+If you're interested in systems performance or the design of technical tools, feel free to reach out.
 
-### 🚀 Key Projects
-
-- **[Flash Linear Attention](https://github.com/MikaAldabadev/flash-linear-attention):** Memory-efficient linear attention kernels for high-performance Transformers.
-- **[SnapATAC2](https://github.com/MikaAldabadev/SnapATAC2):** Contributing to single-cell ATAC-seq analysis tools with a focus on parser efficiency.
-- **[Data Storytelling]:** Former Data Design Lead at Thinking Machines, specializing in UX consulting for data products.
-
-### 📫 Connect with me
-
-- **LinkedIn:** [linkedin.com/in/mikaaldaba](https://www.linkedin.com/in/mikaaldaba)
-
-
----
-*“I believe technical excellence is incomplete without a clear narrative. I build tools that perform well and tell a story.”*
+[mika.design](https://mika.design) / [LinkedIn](https://www.linkedin.com/in/mikaaldaba) / [Medium](https://medium.com/@mikaaldaba)
